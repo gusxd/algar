@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <markers>
     <marker id="1" name="TRAPUS DE SEDA CONFECCOES LTDA" address="RUA  ARISTILIANO RAMOS 174, CENTRO, LAGES" lat="-27.815503" lng="-50.325237" type="checkin" />
-<marker id="2" name="AYANMA ALEXANDRE CORREIA EIRELI" address="AVENIDA  DORIVAL CAYMMI 966, ITAPUA, SALVADOR" lat="-12.925903" lng="-38.355631" type="lead" />
-<marker id="3" name="AGREGA CONSULTORES LTDA" address="RUA DOUTOR JOSE PEROBA 325, STIEP, SALVADOR" lat="-12.996427" lng="-38.449792" type="lead" />
-<marker id="4" name="CASTRO E CASTRO ADVOGADOS ASSOCIADOS" address="RUA SANTA CATARINA 416, BRASIL, UBERLANDIA" lat="-18.899244" lng="-48.260439" type="lead" />
-<marker id="5" name="INSTITUTO IBERO AMERICANO DE ENSINO LTDA" address="RUA SAO PAULO 133, JARDIM SAO FRANCISCO, CUBATAO" lat="-23.882384" lng="-46.420814" type="checkin" />
-<marker id="6" name="ALDO BELUSSO" address="RUA CORONEL PENA DE MORAES 513, CENTRO, FARROUPILHA" lat="-29.228516" lng="-51.346811" type="checkin" />
-<marker id="7" name="JORCILEY SOARES PINTO 13751897780" address="AVENIDA  ERNANI AMARAL PEIXOTO 36, CENTRO, NITEROI" lat="-22.893701" lng="-43.123224" type="lead" />
-<marker id="8" name="MARCOS ABDALA MEI" address="AVENIDA  OTTO RENAUX 445, SAO LUIZ, BRUSQUE" lat="-27.086543" lng="-48.911894" type="lead" />
-<marker id="9" name="JAMIL PINHEIRO JUNIOR" address="PRACA  MACIEL PINHEIRO 66, BOA VISTA, RECIFE" lat="-8.062298" lng="-34.886098" type="lead" />
-<marker id="10" name="SOELY TEIXEIRA COUTO" address="Rua  Rua Eduardo Marquez 359, Osvaldo Rezende, Uberlândia" lat="-18.917103" lng="-48.283552" type="lead" />
-<marker id="11" name="MAIORE PACTUM EMPRESARIAL E SERVICOS LTDA" address="AVENIDA  CESARIO ALVIM 818, CENTRO, UBERLANDIA" lat="-18.906781" lng="-48.265402" type="lead" />
-<marker id="12" name="SOELY TEIXEIRA COUTO" address="Rua  Rua Eduardo Marquez 359, Osvaldo Rezende, Uberlândia" lat="-18.917103" lng="-48.283552" type="lead" />
-<marker id="13" name="CLINICA ODONTOLOGICA MARACANAU LTDA" address="RUA  10 (CJ JEREISSATI I) 655, JEREISSATI I, MARACANAU" lat="-3.874768" lng="-38.620207" type="lead" />
-<marker id="14" name="ANTONIO CARLOS BARROSO DA SILVA" address="RUA  HERIBALDO RODRIGUES 1170, PARQUE POTIRA (JUREMA), CAUCAIA" lat="-3.762853" lng="-38.627252" type="lead" />
-<marker id="15" name="ANTONIA ROSANA RODRIGUES BATISTA" address="RUA  MILAGRES 24, ALDEOTA, FORTALEZA" lat="-3.736078" lng="-38.515011" type="lead" />
-<marker id="16" name="SCHIPER LAVANDERIAS LTDA" address="RUA  AMAZONAS 1008, PITUBA, SALVADOR" lat="-13.003652" lng="-38.458616" type="checkin" />
+	<marker id="2" name="AYANMA ALEXANDRE CORREIA EIRELI" address="AVENIDA  DORIVAL CAYMMI 966, ITAPUA, SALVADOR" lat="-12.925903" lng="-38.355631" type="lead" />
+	<marker id="3" name="AGREGA CONSULTORES LTDA" address="RUA DOUTOR JOSE PEROBA 325, STIEP, SALVADOR" lat="-12.996427" lng="-38.449792" type="lead" />
+	<marker id="4" name="CASTRO E CASTRO ADVOGADOS ASSOCIADOS" address="RUA SANTA CATARINA 416, BRASIL, UBERLANDIA" lat="-18.899244" lng="-48.260439" type="lead" />
+	<marker id="5" name="INSTITUTO IBERO AMERICANO DE ENSINO LTDA" address="RUA SAO PAULO 133, JARDIM SAO FRANCISCO, CUBATAO" lat="-23.882384" lng="-46.420814" type="checkin" />
+	<marker id="6" name="ALDO BELUSSO" address="RUA CORONEL PENA DE MORAES 513, CENTRO, FARROUPILHA" lat="-29.228516" lng="-51.346811" type="checkin" />
+	<marker id="7" name="JORCILEY SOARES PINTO 13751897780" address="AVENIDA  ERNANI AMARAL PEIXOTO 36, CENTRO, NITEROI" lat="-22.893701" lng="-43.123224" type="lead" />
+	<marker id="8" name="MARCOS ABDALA MEI" address="AVENIDA  OTTO RENAUX 445, SAO LUIZ, BRUSQUE" lat="-27.086543" lng="-48.911894" type="lead" />
+	<marker id="9" name="JAMIL PINHEIRO JUNIOR" address="PRACA  MACIEL PINHEIRO 66, BOA VISTA, RECIFE" lat="-8.062298" lng="-34.886098" type="lead" />
+	<marker id="10" name="SOELY TEIXEIRA COUTO" address="Rua  Rua Eduardo Marquez 359, Osvaldo Rezende, Uberlândia" lat="-18.917103" lng="-48.283552" type="lead" />
+	<marker id="11" name="MAIORE PACTUM EMPRESARIAL E SERVICOS LTDA" address="AVENIDA  CESARIO ALVIM 818, CENTRO, UBERLANDIA" lat="-18.906781" lng="-48.265402" type="lead" />
+	<marker id="12" name="SOELY TEIXEIRA COUTO" address="Rua  Rua Eduardo Marquez 359, Osvaldo Rezende, Uberlândia" lat="-18.917103" lng="-48.283552" type="lead" />
+	<marker id="13" name="CLINICA ODONTOLOGICA MARACANAU LTDA" address="RUA  10 (CJ JEREISSATI I) 655, JEREISSATI I, MARACANAU" lat="-3.874768" lng="-38.620207" type="lead" />
+	<marker id="14" name="ANTONIO CARLOS BARROSO DA SILVA" address="RUA  HERIBALDO RODRIGUES 1170, PARQUE POTIRA (JUREMA), CAUCAIA" lat="-3.762853" lng="-38.627252" type="lead" />
+	<marker id="15" name="ANTONIA ROSANA RODRIGUES BATISTA" address="RUA  MILAGRES 24, ALDEOTA, FORTALEZA" lat="-3.736078" lng="-38.515011" type="lead" />
+	<marker id="16" name="SCHIPER LAVANDERIAS LTDA" address="RUA  AMAZONAS 1008, PITUBA, SALVADOR" lat="-13.003652" lng="-38.458616" type="checkin" />
+	<marker id="17" name="HURB PESQUISAS PLANOS E PROJETOS LTDA" address="AVENIDA SANTOS DUMONT, 2789 507, ALDEOTA, FORTALEZA, CE, 60150161" lat="-3.7353882" lng="-38.4997333" type="prospect" />
+	<marker id="18" name="CONSTRUCOES E LOCACOES ANSA EIRELI" address="RUA DOUTOR GILBERTO STUDART, 55 SL 1614, COCO, FORTALEZA, CE, 60192105" lat="-3.7411473" lng="-38.4872098" type="prospect" />
+	<marker id="19" name="SOLUTECNO SOLUCOES TECNOLOGICAS LTDA" address="AVENIDA SANTOS DUMONT, 1789 SL 701, ALDEOTA, FORTALEZA, CE, 60150161" lat="-3.7327632" lng="-38.5075337" type="prospect" />
+	<marker id="20" name="QUALLITYMED COMERCIO IMPORTACAO LTDA" address="AVENIDA HUMBERTO MONTE, 2929 SL 1105, PICI, FORTALEZA, CE, 60440593" lat="-3.754769" lng="-38.5556213" type="prospect" />
+	<marker id="21" name="JM ENGENHEIROS CONSULTORES LTDA" address="AVENIDA SENADOR VIRGILIO TAVORA, 1701 SL 505, DIONISIO TORRES, FORTALEZA, CE, 60170251" lat="-3.7403839" lng="-38.4939851" type="prospect" />
+	<marker id="22" name="RITA DE CASSIA ALVES DOURADO" address="RUA SENADOR POMPEU, 1099 L 2 LJ 112, CENTRO, FORTALEZA, CE, 60025000" lat="-3.7283207" lng="-38.5298325" type="prospect" />
 </markers>
+
+
+
+
 
 
 
