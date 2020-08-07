@@ -12,7 +12,7 @@ var json = [{
   "MES_CRIACAO" : "JULHO",
   "NOME_GERENTE" : "NEWTON RODRIGUES DA SILVA JUNIOR",
   "LEAD_CHECKIN" : "CHECKIN",
-  "CONVERSAO" : 0,
+  "CONVERSAO" : 1,
   "QUADRANTE" : "VERDE",
   "GEOMETRY" : {"type": "Point", "coordinates": [-47.3821487,-20.5552654]}
 }, {
@@ -29,7 +29,7 @@ var json = [{
   "MES_CRIACAO" : "JULHO",
   "NOME_GERENTE" : "AISLAN CARLOS MENDOCA",
   "LEAD_CHECKIN" : "CHECKIN",
-  "CONVERSAO" : 0,
+  "CONVERSAO" : 1,
   "QUADRANTE" : "AMARELO",
   "GEOMETRY" : {"type": "Point", "coordinates": [-48.0380362,-15.8337817]}
 }, {
